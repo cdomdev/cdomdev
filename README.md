@@ -1,5 +1,5 @@
-## Hi there 👋
-Hola <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+## Hi there, I'am Carlos👋
+Hola Coders!
 
 <!--
 **cdomdev/cdomdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
