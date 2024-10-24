@@ -1,6 +1,8 @@
 ## Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Mi nombre es carlos.
+<img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif](https://console.cloudinary.com/console/c-019ef19f72da11904b7dc4c9a779d1/media_library/search/asset/e454ad5ebf60acf88a06795865f0aa07/manage?sortDirection=desc&sortField=uploaded_at&q=%7B%22uploadedTimeOption%22%3A%22today%22%2C%22createdTimeOption%22%3A%22today%22%2C%22createdByUsers%22%3A%5B%224c195e75d5877c2b3c0ca61530e09d%22%5D%7D&view_mode=mosaic&context=manage)" width="29px">
+
+Mi nombre es carlos 🧑‍💻
 
 Technologist in software analysis and development, I seek to provide efficient solutions with creative and practical ideas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
