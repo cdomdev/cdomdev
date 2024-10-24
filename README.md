@@ -1,6 +1,6 @@
 ## Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img src="(https://console.cloudinary.com/console/c-019ef19f72da11904b7dc4c9a779d1/media_library/search/asset/e454ad5ebf60acf88a06795865f0aa07/manage?sortDirection=desc&sortField=uploaded_at&q=%7B%22uploadedTimeOption%22%3A%22today%22%2C%22createdTimeOption%22%3A%22today%22%2C%22createdByUsers%22%3A%5B%224c195e75d5877c2b3c0ca61530e09d%22%5D%7D&view_mode=mosaic&context=manage)" width="29px">
+<img src="https://res.cloudinary.com/dd7gtmrax/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1729730290/20220910_210810_zkfqht_wruyur.jpg" width="29px">
 
 Mi nombre es carlos 🧑‍💻
 
