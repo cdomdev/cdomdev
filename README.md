@@ -1,9 +1,8 @@
-## Hello, I'am Carlos! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello coders, ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Hola Coders!
+Mi nombre es carlos.
+<p aling="center">tecnologo en analisis y desarrollo de software, busco brindar soliciones eficientes con ideas creativas y prácticas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
-I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 
-🏄‍♂️. 
 
 - 🔭 I’m currently working on Android Apps
 - 🌱 I’m currently learning JavaScript
