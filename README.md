@@ -3,7 +3,7 @@
 Mi nombre es carlos.
 Technologist in software analysis and development, I seek to provide efficient solutions with creative and practical ideas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-##<h2>Tenologies</h2> <br/>
+##<h2>technologies</h2> 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
