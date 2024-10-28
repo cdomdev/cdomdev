@@ -6,8 +6,9 @@
 
 Technologist in software analysis and development, I seek to provide efficient solutions with creative and practical ideas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-
-- 💻 Technologies
+<div align="center">
+## 💻 Technologies
+</div>
 
 <div align="center">
  
