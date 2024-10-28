@@ -4,7 +4,12 @@
    <h3 align="center">¡Hey 👋! Soy Carlos 👨🏻‍💻</h3>
 </p>
 
-Technologist in software analysis and development, I seek to provide efficient solutions with creative and practical ideas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" href="mailto:dominguez5493.cd@gmail.com"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" href=""  />
+</div>
+
+<span>Technologist in software analysis and development, I seek to provide efficient solutions with creative and practical ideas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </span>
 
 <div align="center">
  
@@ -42,7 +47,6 @@ Technologist in software analysis and development, I seek to provide efficient s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   
 </div>
-
 
 <!--
 **cdomdev/cdomdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
