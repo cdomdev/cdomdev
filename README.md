@@ -1,6 +1,6 @@
 ## Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
  <p align="center" width="300">
-   <img align="center" width="200" src="https://res.cloudinary.com/dd7gtmrax/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1729730290/20220910_210810_zkfqht_wruyur.jpg" />
+   <img align="center" width="200" src="https://github.com/cdomdev/cdomdev/blob/main/5fd6f7e4-5b26-45fa-abfc-7a9efab16889.jpg" />
    <h3 align="center">¡Hey 👋! Soy Carlos 👨🏻‍💻</h3>
 </p>
 
