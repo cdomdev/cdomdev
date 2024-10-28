@@ -5,8 +5,12 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" href="mailto:dominguez5493.cd@gmail.com"  />
+ <a href="mailto:dominguez5493.cd@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"   />
+ </a>
+ <a href="mailto:dominguez5493.cd@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" href=""  />
+ </a>
 </div>
 
 <span>Technologist in software analysis and development, I seek to provide efficient solutions with creative and practical ideas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </span>
