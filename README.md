@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   
  </a>
+
+
+ 
 </div>
 
 <span>Technologist in software analysis and development, I seek to provide efficient solutions with creative and practical ideas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </span>
