@@ -8,7 +8,7 @@ Technologist in software analysis and development, I seek to provide efficient s
 
 <div align="center">
  
-- 💻 Technologies
+ 💻 Technologies
 
 </div>
 
