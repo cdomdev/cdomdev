@@ -10,7 +10,6 @@ Technologist in software analysis and development, I seek to provide efficient s
 - 💻 Technologies
 
 <div align="center">
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,9 +20,8 @@ Technologist in software analysis and development, I seek to provide efficient s
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 </div>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdomdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=cdomdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdomdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
